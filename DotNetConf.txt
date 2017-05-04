@@ -1,2 +1,3 @@
 https://jwt.io/
 https://github.com/thinktecture
+https://www.rabbitmq.com/         - RabbitMQ - 
